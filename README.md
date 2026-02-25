@@ -66,3 +66,4 @@ Built with powerful open-source tools:
 - **Facebook BART** research and model architecture
 - **Docker** for containerization
 <img width="1919" height="734" alt="Screenshot 2026-02-26 000142" src="https://github.com/user-attachments/assets/1e08a66a-be5e-4fbb-9ece-5b3945a803ba" />
+<img width="1919" height="863" alt="Screenshot 2026-02-26 000159" src="https://github.com/user-attachments/assets/78f6fbf0-4f75-4b3e-a786-1ab670a03fbc" />
